@@ -1,0 +1,24 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    
+    
+}
+
+.input-section{
+    margin-bottom: 50px;
+    background-color: lightgray;
+    height: 20px;
+}
+
+.start-button{
+    background-color: rgb(113, 199, 245);
+    width: 80px;
+    height: 30px;
+}
+
+.signup-button{
+    background-color: rgb(107, 220, 107);
+    height: 30px;
+}
